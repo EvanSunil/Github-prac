@@ -1,5 +1,0 @@
-Hello!
-
-I am learning Github
-This is my first file
-I will learn Git, GitHub and collaborative Coding
